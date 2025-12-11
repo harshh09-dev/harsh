@@ -52,6 +52,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-verse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-verse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-verse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="A-verse GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-verse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="A-verse Top Langs" />
 </div>
