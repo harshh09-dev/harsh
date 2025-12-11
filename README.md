@@ -35,6 +35,6 @@
 
   <br><br>
 
-  <img src="https://github.com/A-verse/A-verse/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="<img src="https://raw.githubusercontent.com/harshh09-dev/harsh/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />" alt="Snake Animation" width="100%" />
 
 </div>
