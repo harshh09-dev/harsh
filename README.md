@@ -15,9 +15,6 @@
   <a href="mailto:anjalikamal3105@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR-PORTFOLIO-LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Live_App-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
 </div>
 
 <br>
